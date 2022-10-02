@@ -1,4 +1,4 @@
-Finding prime Numbers.\
+Finding prime Numbers.
 
 To find out if a number is prime or not there are many ways, but one of the most efficient is the one illustrated below.
 
